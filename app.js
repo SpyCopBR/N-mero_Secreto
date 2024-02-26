@@ -4,6 +4,7 @@ let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
 // ALTERAÇÃO DE TESTE PARA O GITHUB
+// Alteracao para testar a integracao do Git no VS Code.
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
